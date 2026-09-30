@@ -1,0 +1,22 @@
+.cabecalho {
+display: grid;
+grid-template-columns: 1fr 1fr;
+background-color: blue;
+padding: 10px ;
+border-radius: 5px;
+}
+body {
+    background-color: red;
+}
+#conteiner {
+display: grid;
+grid-template-columns: 1fr 1fr;
+background-color: yellow;
+}
+@media (max-width: 600px) {
+.cabecalho {
+grid-template-columns: 1fr;
+border-radius: 5px;
+background-color: green;
+}
+}
