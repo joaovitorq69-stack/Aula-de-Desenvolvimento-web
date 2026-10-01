@@ -1,49 +1,46 @@
-# Meu primeiro site — Web Coding
+# Desenvolvimento Web · Quatro encontros
 
-Projeto de demonstração com **HTML, CSS e JavaScript**, pronto para publicar no GitHub Pages ou na Vercel. Não precisa instalar bibliotecas nem usar ferramentas de compilação.
+Materiais e registros de quatro encontros de introdução ao desenvolvimento web ministrados por **João Vitor Regis**, tutor de Web Coding e graduando em Ciência da Computação.
 
-## Arquivos
+A proposta foi aproximar os participantes da criação de páginas: compreender a estrutura, construir o visual, adicionar interações e conhecer o caminho de publicação na internet. Este repositório reúne os PDFs das aulas e um site de demonstração para consulta e estudo.
+
+## Materiais das aulas
+
+| Encontro | Tema | PDF |
+|---|---|---|
+| 1 | Fundamentos da web e HTML5 | [Abrir material](materiais/01-html5.pdf) |
+| 2 | CSS, estilos, layout e responsividade | [Abrir material](materiais/02-css.pdf) |
+| 3 | JavaScript e formulário com alert | [Abrir material](materiais/03-javascript.pdf) |
+| 4 | Publicação do primeiro site | [Abrir material](materiais/04-publicacao.pdf) |
+
+A sequência acima organiza os materiais por tema. Os PDFs foram preservados como fornecidos; a capa do material de CSS tem uma numeração diferente. A realização dos quatro encontros foi informada pelo ministrante.
+
+## Registros dos encontros
+
+Há imagens identificadas pelos nomes originais em **08/09, 16/09 e 30/09/2026**. Os nomes de arquivos indicam datas de registro ou compartilhamento e não foram tratados como metadados de captura. Um encontro não tem registro fotográfico disponível. As imagens abaixo não foram redistribuídas para representar esse encontro.
+
+| 08/09/2026 | 16/09/2026 | 30/09/2026 |
+|---|---|---|
+| ![Registro de 08 de setembro](registros/2026-09-08/registro-03.jpeg) | ![Registro de 16 de setembro](registros/2026-09-16/registro-06.jpeg) | ![Registro de 30 de setembro](registros/2026-09-30/registro-03.jpeg) |
+
+[Ver todos os registros e sua procedência](registros/README.md).
+
+## Site de demonstração
+
+Abra `index.html` no navegador. O exemplo usa HTML, CSS e JavaScript puro e não precisa de instalação. Experimente o contador, a troca de tema e o formulário.
+
+O formulário demonstra comportamento de interface com `alert`; ele não envia nem armazena inscrições. Os exemplos são materiais introdutórios e não representam uma aplicação com backend.
+
+## Organização
 
 ```text
-site-web-coding/
-├── index.html   ← estrutura da página
-├── styles.css   ← cores, layout e responsividade
-├── script.js    ← contador, tema e formulário com alert
-└── README.md    ← instruções
+materiais/   PDFs dos quatro encontros
+registros/   imagens agrupadas pelas datas dos arquivos originais
+index.html   estrutura do site de demonstração
+styles.css   apresentação visual
+script.js    interações
 ```
 
-## Testar no computador
+## Autoria
 
-Abra o arquivo `index.html` em um navegador. Teste o botão **Adicionar clique**, o botão de **troca de tema** no topo e o **formulário**.
-
-**Importante:** o formulário é apenas uma demonstração didática. Ao enviar, `alert()` mostra os valores no navegador; os dados **não são enviados nem armazenados**. Para receber inscrições de verdade seria necessário conectar um serviço ou backend.
-
-## Publicar no GitHub Pages, usando GitHub Desktop
-
-1. Extraia o ZIP. Abra o GitHub Desktop e adicione a pasta `site-web-coding` como repositório local. Caso não exista um repositório Git, use a opção de criá-lo nessa pasta.
-2. Faça o primeiro **commit** e clique em **Publish repository** para publicar o repositório na sua conta GitHub.
-3. No site do GitHub, abra o repositório e vá a **Settings → Pages**.
-4. Em **Build and deployment**, selecione **Deploy from a branch**. Escolha a branch padrão (normalmente `main`) e a pasta **/(root)**. Salve.
-5. Aguarde a publicação e use o endereço exibido em **Pages**.
-
-Os caminhos `./styles.css` e `./script.js` são relativos, então funcionam também quando o site é publicado em `usuario.github.io/nome-do-repositorio/`.
-
-## Publicar na Vercel
-
-1. Com o repositório já no GitHub, entre na Vercel e crie um novo projeto.
-2. Importe o repositório do GitHub. O site é HTML/CSS/JS puro, sem framework nem comando de build.
-3. Publique com **Deploy** e abra a URL disponibilizada pela Vercel.
-4. Ao fazer um novo commit e enviar para o GitHub, a integração Git pode gerar um novo deploy automaticamente.
-
-## Usar domínio próprio
-
-Registre seu domínio em um registrador (por exemplo, Registro.br para `.br`). Adicione-o à plataforma escolhida (configurações de Pages ou de Domains da Vercel) e crie no painel do registrador **os registros DNS informados pela própria plataforma**. Aguarde a verificação e a emissão de HTTPS. Registros e condições podem variar: siga as instruções exibidas no painel no dia da publicação.
-
-## Para trabalhar em aula
-
-- Altere a cor do botão no `styles.css` e publique uma nova versão.
-- Troque o título `<h1>` no `index.html` e compare o site antes e depois.
-- Modifique a mensagem de `alert()` no `script.js`.
-- Explique a diferença entre **código no GitHub**, **site hospedado** e **domínio próprio**.
-
-Projeto educativo · João Vitor Regis · Web Coding
+João Vitor Regis · Web Coding. O compartilhamento dos materiais não atribui uma licença nova a imagens de participantes ou conteúdos de terceiros.
