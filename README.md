@@ -1,4 +1,4 @@
-# Desenvolvimento Web · Quatro encontros
+# Desenvolvimento Web ·
 
 Materiais e registros de quatro encontros de introdução ao desenvolvimento web ministrados por **João Vitor Regis**, tutor de Web Coding e graduando em Ciência da Computação.
 
@@ -17,7 +17,6 @@ A sequência acima organiza os materiais por tema. Os PDFs foram preservados com
 
 ## Registros dos encontros
 
-Há imagens identificadas pelos nomes originais em **08/09, 16/09 e 30/09/2026**. Os nomes de arquivos indicam datas de registro ou compartilhamento e não foram tratados como metadados de captura. Um encontro não tem registro fotográfico disponível. As imagens abaixo não foram redistribuídas para representar esse encontro.
 
 | 08/09/2026 | 16/09/2026 | 30/09/2026 |
 |---|---|---|
