@@ -43,3 +43,10 @@ script.js    interações
 ## Autoria
 
 João Vitor Regis · Web Coding.
+
+## Licenças
+
+- Código de demonstração (`index.html`, `styles.css` e `script.js`): [MIT](LICENSE).
+- Materiais didáticos em `materiais/` e textos de documentação: [CC BY 4.0](LICENSE-MATERIALS), com atribuição a João Vitor Regis.
+
+As imagens de registro dos encontros em `registros/` ficam fora dessas licenças. Elementos de terceiros nos materiais conservam seus próprios direitos e licenças.
