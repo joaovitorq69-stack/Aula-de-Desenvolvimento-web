@@ -1,6 +1,6 @@
 # Registros das aulas
 
-Arquivos preservados com correspondência aos nomes fornecidos. Não há fotos para todos os quatro encontros.
+Imagens organizadas pelas datas dos nomes originais. Há registros de três dos quatro encontros.
 
 | Data no nome original | Arquivo | Origem |
 |---|---|---|

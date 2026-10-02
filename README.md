@@ -1,8 +1,8 @@
-# Desenvolvimento Web ·
+# Desenvolvimento Web
 
-Materiais e registros de quatro encontros de introdução ao desenvolvimento web ministrados por **João Vitor Regis**, que atuou como tutor de Web Coding.
+Materiais e registros de quatro encontros de introdução ao desenvolvimento web ministrados por João Vitor Regis, que atuou como tutor de Web Coding.
 
-A proposta foi aproximar os participantes da criação de páginas: compreender a estrutura, construir o visual, adicionar interações e conhecer o caminho de publicação na internet. Este repositório reúne os PDFs das aulas e um site de demonstração para consulta e estudo.
+Os encontros abordaram HTML, CSS, JavaScript e publicação de sites. Este repositório reúne os PDFs das aulas e um site de demonstração para consulta e estudo.
 
 ## Materiais das aulas
 
@@ -13,7 +13,7 @@ A proposta foi aproximar os participantes da criação de páginas: compreender 
 | 3 | JavaScript e formulário com alert | [Abrir material](materiais/03-javascript.pdf) |
 | 4 | Publicação do primeiro site | [Abrir material](materiais/04-publicacao.pdf) |
 
-A sequência acima organiza os materiais por tema. A numeração da capa do PDF de CSS difere da ordem apresentada nesta tabela.
+Os materiais estão organizados por tema. A numeração da capa do PDF de CSS difere da ordem apresentada nesta tabela.
 
 ## Registros dos encontros
 
